@@ -6,7 +6,7 @@ Furthermore, I completed Java and Android Software Development course instructed
 At the moment, I'm studying at the University of Istanbul in Management Information Systems for my future carrier.
 
 For the last two years, with the remarkable development of JavaScript technologies,
- Web projects have required much more intensive use of JavaScript. Therefore, 
+Web projects have required much more intensive use of JavaScript. Therefore, 
 I decided to improve my skills, particularly in JavaScript, Node JS and React. 
 I have developed JavaScript technologies for the corporations I have worked for. For the future,
 I want to focus on and continue to work in projects which mostly require React, Redux, Typescript, NodeJS and Spring Boot.
