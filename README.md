@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Alpay Genc. I was born in 1982. I live in Istanbul and am married with 2 children.
-- 👀 I was born in 1982. I live in Istanbul and am married with 2 children.
+- 👋 Hi, I’m Alpay Genc. I was born in 1982. I live in Istanbul and am married with 2 children. I was born in 1982. I live in Istanbul and am married with 2 children.
 
 I hold an associate degree, received from The University of Uludag, in Computer and Information Systems from 2001 to 2004. After two years, in 2006, I was accepted for Mathematics and Computer Science to the University of Johannes Gutenberg in Mainz but I had to drop the course after a year, then came back to Turkey. During my year at the University of Johannes Gutenberg, I learned German. Furthermore, I completed Java and Android Software Development course instructed by Bilgeadam IT Course in Istanbul, in 2017. At the moment, I'm studying at the University of Istanbul in Management Information Systems for my future carrier.
 
