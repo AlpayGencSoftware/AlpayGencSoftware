@@ -1,15 +1,59 @@
-- 👋 Hi, I’m Alpay Genc. I was born in 1982. I live in Istanbul and am married with 2 children. I was born in 1982. I live in Istanbul and am married with 2 children.
+## Alpay Genç 🌟
+**Software Engineer | Specializing in JavaScript & Web Technologies**
 
-I hold an associate degree, received from The University of Uludag, in Computer and Information Systems from 2001 to 2004. After two years, in 2006, I was accepted for Mathematics and Computer Science to the University of Johannes Gutenberg in Mainz but I had to drop the course after a year, then came back to Turkey. During my year at the University of Johannes Gutenberg, I learned German. Furthermore, I completed Java and Android Software Development course instructed by Bilgeadam IT Course in Istanbul, in 2017. At the moment, I'm studying at the University of Istanbul in Management Information Systems for my future carrier.
+---
 
-For the last two years, with the remarkable development of JavaScript technologies, Web projects have required much more intensive use of JavaScript. Therefore, I decided to improve my skills, particularly in JavaScript, Node JS and React. I have developed JavaScript technologies for the corporations I have worked for. For the future, I want to focus on and continue to work in projects which mostly require React, Redux, Typescript, NodeJS and Spring Boot.
+### 👋 About Me
 
+Born in 1982, I've built my career around the ever-evolving landscape of web technologies. Hailing from Istanbul, I'm nurturing the future generation with two wonderful children and a supportive spouse.
 
-- 🌱 I’m currently learning computer science, design, and art.
-- 💞️ I’m looking to collaborate on ...
-- 📫 [How to reach me ...](https://www.linkedin.com/in/alpay-gen%C3%A7-9414223a/)
+---
 
-<!---
-AlpayGencSoftware/AlpayGencSoftware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📚 Educational Journey
+
+- **University of Uludag**: Earned my Associate's in Computer and Information Systems (2001-2004).
+- **University of Johannes Gutenberg, Mainz**: Briefly explored Mathematics and Computer Science (2006), where I also acquired proficiency in German.
+- **Bilgeadam IT, Istanbul**: Enhanced my expertise with a course in Java and Android Software Development (2017).
+- **University of Istanbul**: Currently advancing my insights in Management Information Systems.
+
+---
+
+### 💼 Professional Expertise
+
+Emerging web projects are increasingly leaning on JavaScript, and I've been at the forefront of this transition. My focus areas include:
+
+- **JavaScript**: Been working extensively to sharpen my JS skills.
+- **Frameworks & Technologies**: React, Redux, NodeJS, TypeScript, and Spring Boot.
+
+I envision a future immersed in projects leveraging these technologies and continue to tailor my skills towards this goal.
+
+---
+
+### 🌱 Continuous Learning
+
+Dedicated to broadening my horizons, I'm presently delving into computer science, design, and art to shape a holistic perspective in tech.
+
+---
+
+### 🤝 Let's Collaborate
+
+Open to meaningful collaborations that challenge the norms and demand innovative solutions. If you're thinking of a project where my expertise can be valuable, let's chat!
+
+---
+
+### 🔗 Connect
+
+Stay in touch or explore my professional journey more on [LinkedIn](https://www.linkedin.com/in/alpay-gen%C3%A7-9414223a/).
+
+---
+
+## 🛠 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Spring_Boot-informational?style=flat&logo=spring-boot&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
