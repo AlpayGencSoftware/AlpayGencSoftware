@@ -1,4 +1,4 @@
-## Alpay Genç 🌟
+## Alpay Genç
 **Software Developer | Specializing in JavaScript & Web Technologies**
 
 ---
